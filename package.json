@@ -1,12 +1,12 @@
 {
   "private": true,
+  "type": "module",
   "scripts": {
     "start": "vite",
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
   },
-  "license": "MIT",
   "devDependencies": {
     "@eslint/js": "^9.13.0",
     "autoprefixer": "^10.4.17",
